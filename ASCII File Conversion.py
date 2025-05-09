@@ -5,9 +5,9 @@ import os
 date= datetime.today().strftime('%Y-%m-%d')
 
 #variables to change
-wd = r"C:\Users\Allison Bowers\OneDrive - Urban Grid Solar\Desktop\HLProjects\misc\ASCII_File_Conversion" #location you want output folder to be created in
-ProjectName="test"
-asciifold= r"C:\Users\Allison Bowers\OneDrive - Urban Grid Solar\Desktop\HLProjects\misc\ASCII_File_Conversion\ascii\ascii"#location of ascii files
+wd = r"xxxxxx" #location you want output folder to be created in
+ProjectName="xxxxxx"
+asciifold= r"xxxxxx"#location of ascii files
 cellsize=2 #if file size over 250mb re-run with cell size of 5
 
 #Create output folder to be uploaded to sharepoint
